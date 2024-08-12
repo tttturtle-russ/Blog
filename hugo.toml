@@ -1,0 +1,52 @@
+baseURL = 'https://tttturtle-russ.github.io/'
+languageCode = 'zh-cn'
+title = "Haoyang 's Blog"
+theme = 'yinyang'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 4
+
+[params.author]
+name = "TurtleRuss"
+homepage = "https://tttturtle-russ.github.io/"
+
+[permalinks]
+post = "/posts/:title/"
+
+[params]
+description = "Let's do something interesting and meaningful"
+mainSections = ["posts"]
+headTitle = "TurtleRuss"
+lazyImage = true
+favicon = "/logo.png"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/tttturtle-russ"
+
+[[params.socials]]
+name = "Email"
+link = "mailto://tttturtleruss@gmail.com"
+
+[[params.socials]]
+name = "Posts"
+link = "/posts"
+
+[[params.socials]]
+name = "CV"
+link = "/cv"
+
+[[params.socials]]
+name = "About"
+link = "/about"
+
+postHeaderContent = ""
+# extraCSSFiles = ["css/foo.css", "css/bar.css"]
+extraCSSFiles = []

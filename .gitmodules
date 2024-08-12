@@ -1,0 +1,10 @@
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = git@github.com:joway/hugo-theme-yinyang.git
+[submodule "public"]
+	path = public
+	url = https://github.com/tttturtle-russ/tttturtle-russ.github.io
+	branch = master
