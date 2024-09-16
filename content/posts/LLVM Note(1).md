@@ -79,7 +79,7 @@ int main() {
 
 ```
 然后使用clang将其转为IR文件
-```sh
+```shell
 clang -emit-llvm -S -fno-discard-value-names -c -o test.ll test.c -g
 ```
 得到`test.ll`文件后，使用`opt`进行静态分析

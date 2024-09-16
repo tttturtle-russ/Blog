@@ -3,7 +3,7 @@ title = "Haoyang's CV"
 date = 2024-08-12T22:47:50+08:00
 draft = true
 +++
-###### [ [tttturtle-russ.github.io](http://tttturtle-russ.github.io) ] . [ [tttturtleruss@hust.edu.cn](mailto://tttturtleruss@hust.edu.cn) ] . [ +8619855193213 ] 
+###### [ [tttturtle-russ.github.io](https://tttturtle-russ.github.io) ] . [ [tttturtleruss@hust.edu.cn](mailto://tttturtleruss@hust.edu.cn) ] . [ +8619855193213 ] [PDF](https://tttturtle-russ.github.io/cv.pdf)
 ###### Last Update: 2024.8.12
 
 
